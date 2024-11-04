@@ -1,0 +1,29 @@
+
+h1{
+    font-weight: bold;
+    color: darkgreen; 
+    text-align: center;
+}
+
+h3{
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+p::first-line {
+    font-weight: bold; 
+    color: darkgreen;
+}
+
+p:not(:empty) {
+    background-color: rgb(211, 235, 208); 
+}
+
+p {
+    text-align: center;
+}
+
+strong {
+    background-color: rgb(166, 192, 166);
+    color: black;
+}
