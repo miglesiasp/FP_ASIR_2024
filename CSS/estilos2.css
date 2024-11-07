@@ -1,0 +1,43 @@
+
+.box {
+    width: 250px;
+    padding: 20px;
+    background-color: #b9e09f;
+    border: 2px solid #90c079;
+    box-sizing: border-box;
+    margin: 10px;
+    text-align: center;
+    box-shadow:  2px 2px 2px 1px #aaaa;
+    border-radius: 20px;
+}
+
+h1{
+    font-weight: bold;
+    color: darkgreen; 
+    text-align: center;
+    font-size:50px;
+    text-shadow: 3px 3px 5px #242424;
+}
+h3{
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    text-shadow: 3px 3px 5px #242424 ;
+}
+p::first-line {
+    font-weight: bold; 
+    color: darkgreen;
+}
+
+p:not(:empty) {
+    background-color: rgb(211, 235, 208); 
+}
+
+p {
+    text-align: center;
+}
+
+strong {
+    background-color: rgb(166, 192, 166);
+    color: black;
+}
