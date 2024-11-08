@@ -1,5 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
 
+@font-face {
+    font-family: "Mystery Quest";
+    src: url("mystery-quest.woff2");
+  }
 
+p.indie {
+    font-family: "Indie Flower", serif;
+    font-size: 150%;
+}
+p.mystery {
+    font-family: "Mystery Quest", serif;
+    font-size: 150%;
+}
+
+h1.mystery {
+    font-family: "Mystery Quest", serif;
+}
 .box-1 {
     width: 250px;
     padding: 20px;
