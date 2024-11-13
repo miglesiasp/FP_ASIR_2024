@@ -1,0 +1,23 @@
+.fijo {
+    transform: translateX(500px);
+    height: 250px;
+    width: 300px;
+}
+
+.escala {
+    transform: scale(110%);
+    height: 250px;
+    width: 300px;
+}
+
+.rotacion {
+    transform: rotate(30deg);
+    height: 250px;
+    width: 300px;
+}
+
+.girar {
+    transform: skew(-60deg, 0);
+    height: 250px;
+    width: 300px;
+}
