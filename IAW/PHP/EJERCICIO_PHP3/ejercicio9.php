@@ -6,26 +6,26 @@
     <title>Ejercicio 9</title>
 </head>
 <body>
-    <?php
-    echo "Un programa que calcule la tabla de multiplicar de un número dado". "<br>" . "<br>";
+        <?php
+        echo "Un programa que calcule la tabla de multiplicar de un número dado". "<br>" . "<br>";
 
-    
- function tabla($numero) 
- {
-  
-     for ($i = 0; $i <= 10; $i++) {
-      
-          echo $numero . " x " . $i . " = " . ($numero * $i) . "<br>";
-      }
- }
-
-
-$numero = 9;  
-tabla($numero);
+                
+            function tabla($numero) 
+            {
+            
+                for ($i = 0; $i <= 10; $i++) {
+                
+                    echo $numero . " x " . $i . " = " . ($numero * $i) . "<br>";
+                }
+            }
 
 
+            $numero = 9;  
+            tabla($numero);
 
 
-?>
+
+
+    ?>
         
 </html>

@@ -7,12 +7,12 @@
 </head>
 <body>
     <?php
-    echo "Escribir un programa que imprima 200 veces la palabra “hola”" . "<br>";
+        echo "Escribir un programa que imprima 200 veces la palabra “hola”" . "<br>";
 
-    for ($i = 0; $i < 200; $i++) {
+        for ($i = 0; $i < 200; $i++) {
 
-        echo "hola" . "<br>";
-    }
+            echo "hola" . "<br>";
+        }
     ?>
         
 </html>

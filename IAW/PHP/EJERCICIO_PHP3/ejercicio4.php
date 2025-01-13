@@ -7,12 +7,12 @@
 </head>
 <body>
     <?php
-    echo "Escribir un programa que muestre en pantalla los números del 5 al 10" . "<br>";
+        echo "Escribir un programa que muestre en pantalla los números del 5 al 10" . "<br>";
 
-    for ($i = 5; $i <=10; $i++) {
+        for ($i = 5; $i <=10; $i++) {
 
-        echo $i . ", ";
-    }
+            echo $i . ", ";
+        }
     ?>
         
 </html>

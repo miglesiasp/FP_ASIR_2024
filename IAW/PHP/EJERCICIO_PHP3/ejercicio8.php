@@ -6,16 +6,16 @@
     <title>Ejercicio 8</title>
 </head>
 <body>
-    <?php
-    echo "Escribir un programa que imprima por pantalla los cuadrados de los 30 primeros números
-    naturales." . "<br>" . "<br>";
+        <?php
+            echo "Escribir un programa que imprima por pantalla los cuadrados de los 30 primeros números
+            naturales." . "<br>" . "<br>";
 
-    for ($i = 1; $i <= 30; $i++) {
+            for ($i = 1; $i <= 30; $i++) {
 
-        $cuadrado = $i * $i;
+                $cuadrado = $i * $i;
 
-        echo "El cuadrado de $i es igual a $cuadrado" . "<br>" . "<br>";
-    }
-    ?>
-        
+                echo "El cuadrado de $i es igual a $cuadrado" . "<br>" . "<br>";
+            }
+        ?>
+            
 </html>
