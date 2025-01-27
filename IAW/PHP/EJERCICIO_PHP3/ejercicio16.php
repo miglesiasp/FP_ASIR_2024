@@ -38,7 +38,7 @@
 
 
             echo "El número mayor es: $mayor" . "<br>";
-            echo "El número menor es: $menor\n";
+            echo "El número menor es: $menor";
 
         }
     ?>
