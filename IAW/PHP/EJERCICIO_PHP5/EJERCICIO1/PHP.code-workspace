@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "PHP",
+			"path": "../.."
+		},
+		{
+			"path": "../../../../SAD"
+		},
+		{
+			"path": "../../EJERCICIO_PHP4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
